@@ -1,0 +1,914 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "C",
+            "id": "5d5eda06-18c7-43c4-8668-1b2716c309e2",
+            "actions": [
+                {
+                    "name": "note_C6",
+                    "type": "Value",
+                    "id": "09b960a4-ecf7-4a87-84d2-d5ed688914d4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_C5",
+                    "type": "Value",
+                    "id": "d8a67099-843c-4181-abb5-02ece1f724f1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_C4",
+                    "type": "Value",
+                    "id": "aa61f9dd-778c-4d3f-be55-e63a599bf12e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_C3",
+                    "type": "Value",
+                    "id": "d7acbc1e-8bbe-4f63-b79f-92feba78715d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_C2",
+                    "type": "Value",
+                    "id": "dc8d03ee-8a53-408e-8c75-89c5964512f1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_C1",
+                    "type": "Value",
+                    "id": "c517865a-7b12-4e04-a8ce-4d0e93a5d19e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0d1fcf21-5c6d-42c4-8b48-a9b4928ec21d",
+                    "path": "<MidiDevice>/note052",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "MIDI signal",
+                    "action": "note_C4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e9e988d1-0b62-46fd-9df7-72bc23003477",
+                    "path": "<MidiDevice>/note055",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "MIDI signal",
+                    "action": "note_C3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d00c8a33-b00c-4dad-8311-a6c015e9a8a5",
+                    "path": "<MidiDevice>/note060",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "MIDI signal",
+                    "action": "note_C2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fad44961-2114-4f13-84dc-7076c2d66f59",
+                    "path": "<MidiDevice>/note064",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "MIDI signal",
+                    "action": "note_C1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "30ea652a-174a-4b96-830c-14fd4f032783",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_C6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53f7c222-3e21-4c70-97d8-a20fe5b19ec4",
+                    "path": "<MidiDevice>/note048",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_C5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Dm",
+            "id": "c0b68f94-0dc9-406f-ab4f-16b25c296aa8",
+            "actions": [
+                {
+                    "name": "note_D6",
+                    "type": "Value",
+                    "id": "39d47d9f-3f42-409a-a3f9-afeb1a35a4d1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_D5",
+                    "type": "Value",
+                    "id": "5991e3f1-c40b-4e8a-942b-ff51fee5aa82",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_D4",
+                    "type": "Value",
+                    "id": "703169d1-9c5c-473d-9c5e-f856527d5f7b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_D3",
+                    "type": "Value",
+                    "id": "f3e5d6cb-878b-452b-aae8-9e1d42480dac",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_D2",
+                    "type": "Value",
+                    "id": "ea93c02b-9af1-40e1-9ea5-79164afe9f91",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_D1",
+                    "type": "Value",
+                    "id": "7d1aa97f-106e-4001-b236-916d19f1ba99",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "663414f4-6e9e-4b40-99b0-07d231e65023",
+                    "path": "<MidiDevice>/note057",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_D3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a36ea1bd-24d2-479f-ab71-0a7ba31aad7a",
+                    "path": "<MidiDevice>/note062",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_D2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "42a6275a-0899-4053-acaa-3ad79fac5f83",
+                    "path": "<MidiDevice>/note065",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_D1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5aa96387-b174-4c7b-911d-97af303ba1b1",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_D6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6e39ff8c-5581-4a18-a2cf-585ef749d5dd",
+                    "path": "<MidiDevice>/note050",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_D4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "27c618ef-5ab1-49a7-97e1-e888e0b75c5d",
+                    "path": "<MidiDevice>/note045",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_D5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Em",
+            "id": "13b1d709-6333-400f-8ae6-2639ee5a6819",
+            "actions": [
+                {
+                    "name": "note_E6",
+                    "type": "Value",
+                    "id": "7fc1647c-dd3e-4b8f-bc9a-31e45f429c16",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_E5",
+                    "type": "Value",
+                    "id": "e8014ede-2638-4717-b5aa-cd49938f7cb6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_E4",
+                    "type": "Value",
+                    "id": "5214e306-64cd-475f-b510-a591735ca128",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_E3",
+                    "type": "Value",
+                    "id": "090ad97e-40a5-48dd-94bb-61561909e9a0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_E2",
+                    "type": "Value",
+                    "id": "37879b8f-a8c4-464e-89f3-f2696b399018",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_E1",
+                    "type": "Value",
+                    "id": "b4cd8d9d-1e82-4495-b6c6-0848c82eede8",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "14938694-b2c2-43d6-aaac-69522edd355d",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_E6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5fbae3b3-47d5-4304-8486-e11522d8e604",
+                    "path": "<MidiDevice>/note047",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_E5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "99a021ae-1225-4d8b-8701-2b342d0d9ea9",
+                    "path": "<MidiDevice>/note052",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_E4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "825bd988-6b34-47e7-afa6-6be8bc4bd672",
+                    "path": "<MidiDevice>/note055",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_E3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7554c35f-78a5-4c7f-be8a-76c6d5ada4ae",
+                    "path": "<MidiDevice>/note059",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_E2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7aed38ba-6fe1-4a9d-9070-83a765a81311",
+                    "path": "<MidiDevice>/note064",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_E1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "F",
+            "id": "6b4a3ed2-4060-44d9-84de-2c7e607f9be7",
+            "actions": [
+                {
+                    "name": "note_F6",
+                    "type": "Value",
+                    "id": "c56995b4-cf12-4796-a9e0-f86ef9066c97",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_F5",
+                    "type": "Value",
+                    "id": "ad76d4d2-6fab-4d09-8a7f-084a31672746",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_F4",
+                    "type": "Value",
+                    "id": "605e0216-4c9a-41da-bb94-406b04a4026b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_F3",
+                    "type": "Value",
+                    "id": "00c8a1e0-de28-404a-ba1f-e62f16412887",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_F2",
+                    "type": "Value",
+                    "id": "05fbd99e-03d4-4f60-9223-f28dacef62a3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_F1",
+                    "type": "Value",
+                    "id": "1376e0a5-c50e-4bb7-9e56-b3111394c0a6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "db884d2f-ca16-41d5-bcb2-7122061e6b9d",
+                    "path": "<MidiDevice>/note041",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_F6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d890bd55-078e-4a7d-a3d7-91168c56dee9",
+                    "path": "<MidiDevice>/note048",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_F5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f4e71ee3-e33c-4cf7-a982-385a327223b5",
+                    "path": "<MidiDevice>/note053",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_F4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5635b703-eb21-41c9-b91a-ddf29ede653a",
+                    "path": "<MidiDevice>/note057",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_F3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "44f6b69f-72a6-4691-a93d-77fff2017314",
+                    "path": "<MidiDevice>/note060",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_F2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bc4b313b-4101-49b2-982d-63fed9a2ce9d",
+                    "path": "<MidiDevice>/note065",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_F1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "G",
+            "id": "baa4d847-de72-4db8-bb2a-de845b90bd50",
+            "actions": [
+                {
+                    "name": "note_G6",
+                    "type": "Value",
+                    "id": "cfb22919-2b08-4d2b-9b29-ef37aa51d269",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_G5",
+                    "type": "Value",
+                    "id": "1c2a03e1-c33c-4889-a59b-124aa5540d2b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_G4",
+                    "type": "Value",
+                    "id": "e2ddabc0-f849-4aad-a3f5-92765b91f901",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_G3",
+                    "type": "Value",
+                    "id": "9819c550-d14a-435d-b98c-abe67270377a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_G2",
+                    "type": "Value",
+                    "id": "06be1127-203f-42ea-a0c1-ae27b5ed1479",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_G1",
+                    "type": "Value",
+                    "id": "10eec0b5-51d6-4380-a893-3bc5eab8b727",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1284ac24-823c-4f2c-9c6e-543dee8b6beb",
+                    "path": "<MidiDevice>/note043",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_G6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "128ab1f7-4ef2-4c1e-9f4d-f708b686999c",
+                    "path": "<MidiDevice>/note047",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_G5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8980bcf8-3581-49aa-b552-2b88ad498b6d",
+                    "path": "<MidiDevice>/note050",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_G4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "efd43133-2a9c-4bcd-a957-d4816d40e50d",
+                    "path": "<MidiDevice>/note055",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_G3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a939ff2e-b430-4605-abbd-4dbcb6792597",
+                    "path": "<MidiDevice>/note059",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_G2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aa196d0e-cafd-4ab5-8fe3-72b32247a343",
+                    "path": "<MidiDevice>/note067",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_G1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Am",
+            "id": "2af88bde-56ac-40f9-b129-8f099aefee53",
+            "actions": [
+                {
+                    "name": "note_A6",
+                    "type": "Button",
+                    "id": "e9b3ee1b-ee49-42d2-8200-aa1409605225",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "note_A5",
+                    "type": "Value",
+                    "id": "e7f7f7ba-ee8b-4447-87e6-06a86674a30b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_A4",
+                    "type": "Value",
+                    "id": "e7a38f2d-fc10-4318-8533-4359a8f6eeca",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_A3",
+                    "type": "Value",
+                    "id": "3e315373-a1c5-405c-aa58-d52d7643e300",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_A2",
+                    "type": "Value",
+                    "id": "f301e4ac-967f-4906-90f5-f59db77cda9e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_A1",
+                    "type": "Value",
+                    "id": "9d783d60-4203-41b4-83cc-7040f4ade4a7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a8cf579e-96ae-48ab-8d04-0566438e9778",
+                    "path": "<MidiDevice>/note045",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_A5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1a029206-526b-44b8-b7df-cfd78f4eccdf",
+                    "path": "<MidiDevice>/note052",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_A4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1a008fc8-413e-485d-94f1-a383e0d9f1eb",
+                    "path": "<MidiDevice>/note057",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_A3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5c1203a1-3459-4ee3-bab8-73f597465787",
+                    "path": "<MidiDevice>/note060",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_A2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aed790df-5a13-4b7c-95b6-aa0b6475926d",
+                    "path": "<MidiDevice>/note064",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_A1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b88eeff5-643d-4456-a42e-70059f8eada5",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_A6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Bm",
+            "id": "835801bf-e13a-428a-82d3-9c5001cdbfa2",
+            "actions": [
+                {
+                    "name": "note_B6",
+                    "type": "Value",
+                    "id": "c150a0ad-c842-4e15-8d71-7196e882980d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_B5",
+                    "type": "Value",
+                    "id": "43f6ea82-926b-4711-9651-cb5fbf4e3e8c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_B4",
+                    "type": "Value",
+                    "id": "cb1af6d4-b6fc-46af-8615-52bbcfd29db4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_B3",
+                    "type": "Value",
+                    "id": "2b03cd90-8c5e-4539-bb6b-7ca5cadd1a03",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_B2",
+                    "type": "Value",
+                    "id": "b0d24fc9-a93a-4c73-82c4-11f06c954bac",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "note_B1",
+                    "type": "Value",
+                    "id": "02ed556e-481c-4f6b-ab24-ff9fdd9c6edf",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ef0520fe-f9e8-4d32-849e-12923bd8c379",
+                    "path": "<MidiDevice>/note047",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_B5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7ee3a3c5-64a5-42ff-ba4c-8d07131633f8",
+                    "path": "<MidiDevice>/note053",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_B4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4e6b895c-cba9-42b8-adca-add17913efa9",
+                    "path": "<MidiDevice>/note059",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_B3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "65ff52c4-1a9d-4f15-8e79-59b90614d68c",
+                    "path": "<MidiDevice>/note062",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_B2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3df6947c-b2e1-4959-807e-587086a8fee1",
+                    "path": "<MidiDevice>/note040",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_B6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0d95d9d9-ce7c-4f55-bcb5-e48cf90b5cc6",
+                    "path": "<MidiDevice>/note064",
+                    "interactions": "Press(pressPoint=0.4)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "note_B1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MIDI signal",
+            "bindingGroup": "MIDI signal",
+            "devices": [
+                {
+                    "devicePath": "<MidiDevice>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
