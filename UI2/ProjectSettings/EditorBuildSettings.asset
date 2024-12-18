@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Input(new).unity
+    guid: 3a50a5cd63a06564ab89fe2943819286
+  - enabled: 1
+    path: Assets/Scenes/IGA.unity
+    guid: 60f27d6f7274ec4468dd4da08918e80e
+  - enabled: 1
+    path: Assets/Scenes/ConSkill.unity
+    guid: 00e6e0bb166f55a4d83335fdd0474997
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e87855e6a62b0474b851a4c1fa0db73c, type: 2}
